@@ -1,0 +1,1 @@
+const b = "value juga";
